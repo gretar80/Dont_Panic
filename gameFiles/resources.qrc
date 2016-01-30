@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/bomb1.png</file>
+        <file>img/bomb2.png</file>
+        <file>img/bomb3.png</file>
+        <file>img/bomb4.png</file>
+        <file>img/bomb5.png</file>
+        <file>img/bomb6.png</file>
+        <file>img/bomb7.png</file>
+        <file>img/bomb8.png</file>
+        <file>img/bomb9.png</file>
+        <file>img/selected_bomb1.png</file>
+        <file>img/selected_bomb2.png</file>
+        <file>img/selected_bomb3.png</file>
+        <file>img/selected_bomb4.png</file>
+        <file>img/selected_bomb5.png</file>
+        <file>img/selected_bomb6.png</file>
+        <file>img/selected_bomb7.png</file>
+        <file>img/selected_bomb8.png</file>
+        <file>img/selected_bomb9.png</file>
+        <file>img/brick_background.png</file>
+        <file>img/main_background.jpg</file>
+        <file>img/gameOverNoHighscore.png</file>
+        <file>img/gameOverNewHighscore.png</file>
+    </qresource>
+</RCC>
