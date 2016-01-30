@@ -7,14 +7,14 @@
   <li> Clone the repo and load gameFiles.pro in Qt Creator</li>
 </ul>
 <h3>Instructions</h3>
-<p><img src="http://i.imgur.com/ar3Gy3B.png">
+<p>![alt tag](https://raw.github.com/gretar80/Dont_Panic/master/screenshots/01.png)
 <ul>
   <li>This is the main menu. The game starts when you've selected difficulty</li>
   <li>EASY - 5 different bombs</li>
   <li>MEDIUM - 7 different bombs</li>
   <li>HARD - 9 different bombs</li>
 </ul>
-<p><img src="http://i.imgur.com/b2ir5UO.png">
+<p>![alt tag](https://raw.github.com/gretar80/Dont_Panic/master/screenshots/02.png)
 <ul>
   <li>The goal is to arrange 3 bombs of the same color in a row (horizontally or vertically). Then the bombs will disappeard and the player gets 100 points per bomb.</li>
   <li>Swap two adjacent bombs by clicking them.</li>
