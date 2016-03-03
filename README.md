@@ -16,7 +16,7 @@
 </ul>
 <p>![alt tag](https://raw.github.com/gretar80/Dont_Panic/master/screenshots/02.png)
 <ul>
-  <li>The goal is to arrange 3 bombs of the same color in a row (horizontally or vertically). Then the bombs will disappeard and the player gets 100 points per bomb.</li>
+  <li>The goal is to arrange 3 bombs of the same color in a row (horizontally or vertically). Then the bombs will disappear and the player gets 100 points per bomb.</li>
   <li>Swap two adjacent bombs by clicking them.</li>
   <li>If you don't get 3 in a row, the bombs will move back.</li>
   <li>If you get 3 in a row, the bombs will disappear and the bombs above will fall down and new bombs will be generated at the top.</li>
